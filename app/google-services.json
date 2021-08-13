@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "516797194207",
+    "firebase_url": "https://videostreaming-1d8cd-default-rtdb.firebaseio.com",
+    "project_id": "videostreaming-1d8cd",
+    "storage_bucket": "videostreaming-1d8cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516797194207:android:e1d9e99cc647d073acee6a",
+        "android_client_info": {
+          "package_name": "com.example.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516797194207-cec2dj6lfl3034l4eg820gie4166ihsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjh1S2g9M1bOep9WGNYKG8kOcYIzPFJyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516797194207-cec2dj6lfl3034l4eg820gie4166ihsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516797194207:android:676dd3a40679e0aeacee6a",
+        "android_client_info": {
+          "package_name": "com.kazimasum.videostreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516797194207-cec2dj6lfl3034l4eg820gie4166ihsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjh1S2g9M1bOep9WGNYKG8kOcYIzPFJyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516797194207-cec2dj6lfl3034l4eg820gie4166ihsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
